@@ -8,6 +8,7 @@ public class Main {
         int choise = 0;
 
         while (choise != 5) {
+
             System.out.println("1. Öppna upp konto");
             System.out.println("2. Lista konton");
             System.out.println("3. Insättning");
